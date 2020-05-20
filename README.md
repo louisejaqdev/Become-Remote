@@ -1,6 +1,6 @@
 # Become-Remote
 ### Trabalho Remoto 
 
-Sobre o Bootcamp sobre trabalho remoto da Impulso 
+Sobre o Bootcamp de trabalho remoto da Impulso 
 
 Anotações e links importantes
